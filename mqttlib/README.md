@@ -1,9 +1,4 @@
-# README.md for MQTT Lib - mqttlib
-
-- Author: Anthony L. Leotta
-- Date: Dec. 22, 2022
-- Copyright: MIT
-- Description: Useful set of functions for MQTT
+# README.md
 
 ## Define a MQTT Topic
 
